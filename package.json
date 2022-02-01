@@ -1,0 +1,23 @@
+{
+  "name": "clase11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecigonzaq/Proyecto-boostrap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cecigonzaq/Proyecto-boostrap/issues"
+  },
+  "homepage": "https://github.com/cecigonzaq/Proyecto-boostrap#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.1",
+    "nodemon": "^2.0.15"
+  }
+}
